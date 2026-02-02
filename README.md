@@ -9,7 +9,7 @@ Basic C# mediaplayer with animations, sidebar...and ok more than basic maybe
 This project was developed during last 4 days of a 4-week basic C# / WinForms training course in 2022.   
      
 ⚠️ What is this?    
-It is a functional "clone" of my d7 media player created to test C# skills. It features:    
+It is a functional basic "clone" of my d7 media player created to test C# skills. It features:    
     
      Animated UI: Custom logic for sliding sidebars and animated controls.     
      Animated pagecontrol, cover slideshow, water effect      
