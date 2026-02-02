@@ -11,10 +11,14 @@ This project was developed during last 4 days of a 4-week basic C# / WinForms tr
 ⚠️ What is this?    
 It is a functional "clone" of my d7 media player created to test C# skills. It features:    
     
-     Animated UI: Custom logic for sliding sidebars and animated controls.   
-     Remote Control: A basic UDP listener to simulate an Android remote control app.   
+     Animated UI: Custom logic for sliding sidebars and animated controls.     
+     Animated pagecontrol, cover slideshow, water effect      
+     Remote Control: A basic UDP listener to simulate an Android remote control app.     
      Playlist Logic: Implementation of trees, lists, and search filtering.    
-      
+     OSD showing title   
+  
+     totaly basic so :P   
+       
    
 ⚠️ Important Notes (Read Before Running):    
    
