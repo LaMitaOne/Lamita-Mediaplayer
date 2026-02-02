@@ -34,3 +34,4 @@ It is a functional "clone" of my d7 media player created to test C# skills. It f
      Framework: .NET Framework    
      Audio: LibVLCSharp (wrapper for VLC)     
      
+<img width="964" height="1438" alt="Unbenannt" src="https://github.com/user-attachments/assets/7edb734e-7c1b-4938-8a98-8ff3defb7ef1" />
