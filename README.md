@@ -13,7 +13,7 @@ It is a functional "clone" of my d7 media player created to test C# skills. It f
     
      Animated UI: Custom logic for sliding sidebars and animated controls.     
      Animated pagecontrol, cover slideshow, water effect      
-     Remote Control: A basic UDP listener to simulate an Android remote control app.     
+     Remote Control: A basic UDP listener to get controlled from an Android remote control app.     
      Playlist Logic: Implementation of trees, lists, and search filtering.    
      OSD showing title   
   
