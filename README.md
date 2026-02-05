@@ -6,7 +6,7 @@ Basic C# mediaplayer with animations, sidebar...and ok more than basic maybe
 ℹ️ Status: Archived Concept / Historical Artifact    
     
 📅 Context:     
-This project was developed during last 4 days of a 4-week basic C# / WinForms training course in 2022.   
+This project was developed solo during last 4 days of a 4-week basic C# / WinForms training course in 2022.   
 Proves I can be that fast without Ai, in a new language even...    
      
 ⚠️ What is this?    
