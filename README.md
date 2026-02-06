@@ -1,6 +1,8 @@
 # Lamita-Mediaplayer
-Basic C# mediaplayer with animations, sidebar...and ok more than basic maybe 
-
+Basic C# mediaplayer with animations, sidebar...and ok more than basic maybe  
+    
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Lamita-Mediaplayer)
+    
     LaMita Media Player (2022 Training Prototype) 
    
 ℹ️ Status: Archived Concept / Historical Artifact    
